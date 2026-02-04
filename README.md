@@ -8,6 +8,9 @@ A React-based interactive pathfinding algorithm visualizer that demonstrates Dij
 - **Dijkstra's Algorithm Visualization**: Watch the algorithm explore nodes in real-time
 - **Shortest Path Display**: See the optimal path highlighted after the algorithm completes
 - **Clear Functions**: Reset the board or just clear the path while keeping walls
+## Dijkstra Visualizer Demo
+
+<img width="1860" height="890" alt="Screenshot 2026-02-05 032751" src="https://github.com/user-attachments/assets/44053d21-8d94-469e-b18f-c4c94f17fea7" />
 
 ## Getting Started
 
@@ -81,26 +84,10 @@ pathfinding-visualizer/
 └── README.md
 ```
 
-## Future Enhancements
-
-Potential additions to the project:
-- More algorithms (A*, BFS, DFS, Greedy Best-First Search)
-- Weighted nodes
-- Maze generation algorithms
-- Adjustable animation speed
-- Drag-and-drop for start/finish nodes
-- Mobile-responsive design improvements
-
 ## Technologies Used
 
 - React 18
 - CSS3 with animations
 - JavaScript ES6+
 
-## License
 
-This project is open source and available for educational purposes.
-
-## Acknowledgments
-
-Inspired by pathfinding visualizers and algorithm education tools.
