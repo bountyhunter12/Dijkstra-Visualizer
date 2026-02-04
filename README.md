@@ -24,7 +24,7 @@ A React-based interactive pathfinding algorithm visualizer that demonstrates Dij
 1. Extract the zip file
 2. Navigate to the project directory:
    ```bash
-   cd pathfinding-visualizer
+   cd Dijkstra-Visualizer
    ```
 
 3. Install dependencies:
